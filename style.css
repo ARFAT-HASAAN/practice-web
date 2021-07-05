@@ -1,0 +1,16 @@
+*{margin: 0;
+ padding: 0;}
+
+ .section1{display: flex;
+         padding: 5% 7%;
+}
+ .first-div{width: 40%;
+            padding: 0px 20px;
+            
+            }
+ .first-div img{width: 100%;
+               }
+ .first-div h1{font-size: 50px;}
+  .color-purple{color:crimson;} 
+ .first-div h3{font-size: 30px;}
+ .first-div p{font-size: 20px;}             
