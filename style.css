@@ -13,7 +13,7 @@
  .first-div img{width: 100%;
                }
  .first-div h1{font-size: 50px;
-               margin-bottom: 15px;}
+               margin-bottom: 20px;}
   .color-purple{color:crimson;} 
  .first-div h3{font-size: 30px;
                 font-weight: 700;}
@@ -22,7 +22,7 @@
             font-size: 20px;
             font-weight: bolder;
             padding: 5px 12px;
-            margin: 10px 0px;
+            margin: 20px 0px;
             border: none;
             border-radius: 5px;}  
             /* section 1 end here  */
@@ -31,20 +31,23 @@
 
         .section2{display: flex;
                   padding: 10%;
-                  background-image: url(Photo/exp-bg.png);
+                  background-image:url(Photo/exp-bg.png);
                   background-position: left;
                   background-repeat: no-repeat;
-                  background-size: initial;
+                  background-size: 100%;
                   }
           .second-div{width: 40%;
                       padding: 20px;}
-          .second-div h1{margin-bottom: 7px;}
-           .second-div h3{margin: none;
+          .second-div h1{font-size: 40px;
+                      margin-bottom: 20px;}
+           .second-div h3{font-size: 30px;
+                         margin: none;
                           width: 150px;
                           border-bottom: 3px solid crimson;}
           .second-div img{width: 100%;}
-          .download-btn{padding: 5px 12px;
-                        margin: 10px 0px;
+          .download-btn{font-size: 30px;
+                  padding: 10px 12px;
+                        margin: 20px 0px;
                         border: none;
                         background-image: linear-gradient(90deg,crimson,yellow);
                         border-radius: 5px;}
