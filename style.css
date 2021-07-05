@@ -34,7 +34,7 @@
                   background-image:url(Photo/exp-bg.png);
                   background-position: left;
                   background-repeat: no-repeat;
-                  background-size: 100%;
+                  background-size: initial;
                   }
           .second-div{width: 40%;
                       padding: 20px;}
