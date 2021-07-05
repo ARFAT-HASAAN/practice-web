@@ -3,6 +3,7 @@
 
  .section1{display: flex;
          padding: 5% 7%;
+         background-image: url(Photo/top-banner.png);
 }
  .first-div{width: 40%;
             padding: 0px 20px;
@@ -10,7 +11,72 @@
             }
  .first-div img{width: 100%;
                }
- .first-div h1{font-size: 50px;}
+ .first-div h1{font-size: 25px;}
   .color-purple{color:crimson;} 
- .first-div h3{font-size: 30px;}
- .first-div p{font-size: 20px;}             
+ .first-div h3{font-size: 25px;}
+ .first-div p{font-size: 20px;}  
+ .link-btn{ background-image: linear-gradient(30deg,crimson,yellow);
+            padding: 5px 12px;
+            margin: 10px 0px;
+            border: none;
+            border-radius: 5px;}  
+            /* section 1 end here  */
+
+        /* section 2 star from here  */
+
+        .section2{display: flex;
+                  padding: 10%;
+                  background-image: url(Photo/exp-bg.png);
+                  background-position: left;
+                  background-repeat: no-repeat;
+                  background-size: initial;
+                  }
+          .second-div{width: 40%;
+                      padding: 20px;}
+          .second-div h1{margin-bottom: 7px;}
+           .second-div h3{margin: none;
+                          width: 150px;
+                          border-bottom: 3px solid crimson;}
+          .second-div img{width: 100%;}
+          .download-btn{padding: 5px 12px;
+                        margin: 10px 0px;
+                        border: none;
+                        background-image: linear-gradient(90deg,crimson,yellow);
+                        border-radius: 5px;}
+
+  .section3 h1{width: 200px;
+                           margin: auto;
+                        text-transform: uppercase;
+                        text-align: center;
+                         border-bottom: 4px solid crimson;
+                 }
+
+
+      .section4{display: flex;
+                 padding: 2%;}
+                 
+       .div3{width: 47%;
+             padding: 0px 10px;
+             box-shadow: 1px 1px 3px black;
+             margin: 0px 10px;
+             border-radius: 5px;
+             } 
+
+             #divthreee{border-image: linear-gradient(yellow,black);
+                        border-left: 3px solid;
+                         border-image-slice: 1;}
+             #divthree{border-image: linear-gradient(rgb(190, 190, 155),rgb(219, 32, 32));
+                        border-left: 3px solid;
+                         border-image-slice: 1;}            
+             
+         .div3 h2{ margin-bottom: 10px;}   
+         
+         
+         .footer p{font-size: 10px;
+                 color: lightseagreen;
+                  text-align: center;
+                  padding: 10px;}
+
+
+              
+
