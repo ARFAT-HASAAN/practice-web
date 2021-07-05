@@ -19,6 +19,8 @@
                 font-weight: 700;}
  .first-div p{font-size: 20px;}  
  .link-btn{ background-image: linear-gradient(30deg,crimson,yellow);
+            font-size: 20px;
+            font-weight: bolder;
             padding: 5px 12px;
             margin: 10px 0px;
             border: none;
